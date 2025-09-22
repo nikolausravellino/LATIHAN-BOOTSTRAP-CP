@@ -1,3 +1,0 @@
-Repository: https://github.com/nikolausravellino/LATIHAN-BOOSTRAP-CP
-Branch utama: main
-Branch latihan: Web-Bootstrap
